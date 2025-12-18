@@ -1,5 +1,13 @@
 # 🔐 B92 Quantum Key Distribution (QKD) and Comparison Between Error Correction Schemes
 
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python" />
+  <img src="https://img.shields.io/badge/Powered%20by-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Powered by Qiskit" />
+  <img src="https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge&logo=apache&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Topic-Quantum%20Cryptography-green?style=for-the-badge&logo=atom&logoColor=white" alt="Topic Quantum" />
+</p>
+<br />
+
 ## 📌 Overview
 This repository implements and analyzes the **B92 Quantum Key Distribution (QKD) protocol** using **Qiskit**, followed by classical post‑processing routines for error correction and privacy amplification. The project compares multiple error-correction schemes, such as **Cascade**, **Hamming (15,11)**, and **LDPC**, and evaluates their impact on secure key generation under realistic noise and eavesdropping models.
 
